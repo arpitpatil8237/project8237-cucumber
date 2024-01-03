@@ -1,0 +1,18 @@
+
+public classs Swappingof3rdvariable
+
+public satic void main{String[]args}{
+int a=10;
+int b=20;
+
+system.out.println("a"+a);
+system.out.println("b"+b);
+
+int temp=a;
+a=b;
+b=temp;
+
+system.out.println("b"+b);
+system.out.println("a"+a);
+
+}

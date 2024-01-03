@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[uName is Verified]]>
+    </line>
+    <line>
+      <![CDATA[password is Verified]]>
+    </line>
+    <line>
+      <![CDATA[keepMeLogInChkBox is Verified]]>
+    </line>
+    <line>
+      <![CDATA[logInBtn is Verified]]>
+    </line>
+    <line>
+      <![CDATA[loginPagesLogo is Verified]]>
+    </line>
+    <line>
+      <![CDATA[LogIN Page verify successfully]]>
+    </line>
+    <line>
+      <![CDATA[UserName Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password Entered]]>
+    </line>
+    <line>
+      <![CDATA[Click On LogInBtn]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-27T16:43:36 IST" name="Suite" finished-at="2023-01-27T16:44:03 IST" duration-ms="27165">
+    <groups>
+    </groups>
+    <test started-at="2023-01-27T16:43:36 IST" name="Test" finished-at="2023-01-27T16:44:03 IST" duration-ms="27165">
+      <class name="org.POM_TestCases.LogInTestCases">
+        <test-method is-config="true" signature="inIt_Obj()[pri:0, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:43:35 IST" name="inIt_Obj" finished-at="2023-01-27T16:43:36 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt_Obj -->
+        <test-method is-config="true" signature="in_ItBrowser()[pri:0, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:43:36 IST" name="in_ItBrowser" finished-at="2023-01-27T16:43:49 IST" duration-ms="13083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in_ItBrowser -->
+        <test-method signature="verifyLogInPage()[pri:0, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:43:49 IST" name="verifyLogInPage" finished-at="2023-01-27T16:43:50 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[uName is Verified]]>
+            </line>
+            <line>
+              <![CDATA[password is Verified]]>
+            </line>
+            <line>
+              <![CDATA[keepMeLogInChkBox is Verified]]>
+            </line>
+            <line>
+              <![CDATA[logInBtn is Verified]]>
+            </line>
+            <line>
+              <![CDATA[loginPagesLogo is Verified]]>
+            </line>
+            <line>
+              <![CDATA[LogIN Page verify successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogInPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:43:50 IST" name="tearDown" finished-at="2023-01-27T16:43:51 IST" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="in_ItBrowser()[pri:0, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:43:51 IST" name="in_ItBrowser" finished-at="2023-01-27T16:43:59 IST" duration-ms="8089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in_ItBrowser -->
+        <test-method signature="verifyLogInPageFunctionality()[pri:1, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:43:59 IST" name="verifyLogInPageFunctionality" finished-at="2023-01-27T16:44:01 IST" duration-ms="1365" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[UserName Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password Entered]]>
+            </line>
+            <line>
+              <![CDATA[Click On LogInBtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogInPageFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:44:01 IST" name="tearDown" finished-at="2023-01-27T16:44:03 IST" duration-ms="1958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="clear()[pri:0, instance:org.POM_TestCases.LogInTestCases@2a4fb17b]" started-at="2023-01-27T16:44:03 IST" name="clear" finished-at="2023-01-27T16:44:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+      </class> <!-- org.POM_TestCases.LogInTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

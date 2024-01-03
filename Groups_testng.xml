@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<groups>
+			<run>
+				<exclude name="smoke"></exclude>
+			</run>
+		</groups>
+		<classes>
+			<class name="org.TestNGEx2.GroupsAccountsTc1" />
+			<class name="org.TestNGEx3.GroupsUsersTC1" />
+			<class name="org.TestNGEx3.GroupsCustomersTC1" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

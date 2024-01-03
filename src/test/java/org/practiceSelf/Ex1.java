@@ -7,7 +7,7 @@ import org.utilities.BaseUtility;
 
 public class Ex1 {
 public static void main(String[] args) {
-//Branch A
+//Changes Remove
 	BaseUtility bu=new BaseUtility();
 	WebDriver driver;
 //	WebDriver driver=new EdgeDriver();
